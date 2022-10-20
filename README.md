@@ -5,33 +5,33 @@
 ![](figs/DONNsystem.png)
 
 ##Overview of LightRidge Design Flow
-![](figs/Overview-crop.pdf)
+![](figs/Overview-crop.png)
 
 ##Validation of the DONN system
 ###(1) Hardware Prototype
-![](figs/eval_exp.pdf)
+![](figs/eval_exp.png)
 ###(2) Full Propagation visualization
-![](figs/0.pdf)
-![](figs/1.pdf)
-![](figs/2.pdf)
-![](figs/3.pdf)
-![](figs/4.pdf)
-![](figs/5.pdf)
-![](figs/6.pdf)
-![](figs/7.pdf)
-![](figs/8.pdf)
-![](figs/9.pdf)
+![](figs/0.png)
+![](figs/1.png)
+![](figs/2.png)
+![](figs/3.png)
+![](figs/4.png)
+![](figs/5.png)
+![](figs/6.png)
+![](figs/7.png)
+![](figs/8.png)
+![](figs/9.png)
 ##Emulation-level Evaluation (with Confidence Test)
-![](figs/result_acc_conf-4.pdf)
+![](figs/result_acc_conf-4.png)
 ##Runtime Evaluation
 ![](figs/speedups.png)
 
 ##On-chip Integration
-![](figs/on_chip_integration-crop.pdf)
+![](figs/on_chip_integration-crop.png)
 
 ##Advanced DONN Architectural Design
 ###RGB images classification
-![](figs/RGB_arch.pdf)
+![](figs/RGB_arch.png)
 ###All-optical image segmentation
-![](figs/segmentation_1.pdf)
-![](figs/segmentation_2.pdf)
+![](figs/segmentation_1.png)
+![](figs/segmentation_2.png)
